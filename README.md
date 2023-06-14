@@ -1,2 +1,2 @@
-# Engineering-Connections
-Finds the best deal for construction material buyers from suppliers. 
+# Monopoly
+Keeps track of players' progress in a game of monopoly so that everyone concentrates on the fun bits.   
